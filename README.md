@@ -27,6 +27,5 @@
     
  ##
     
-    AQUI ESTÃO ALGUMAS PLATAFORMAS QUE JA TIVE VIVENCIA
     
     
