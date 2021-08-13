@@ -6,4 +6,4 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fehgusto&layout=compact&langs_count=16&theme=dracula"/>
 
 
-![Snake animation](https://github.com/rafaballerini/fehgusto/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/fehgusto/fehgusto/blob/output/github-contribution-grid-snake.svg)
