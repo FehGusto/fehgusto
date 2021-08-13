@@ -7,3 +7,6 @@
 
 
 ![Snake animation](https://github.com/fehgusto/fehgusto/blob/output/github-contribution-grid-snake.svg)
+  
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
+
