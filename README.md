@@ -24,3 +24,9 @@
     <a href="https://plekprjt.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" target="_blank"></a>
   
   <div>
+    
+ ##
+    
+    AQUI ESTÃO ALGUMAS PLATAFORMAS QUE JA TIVE VIVENCIA
+    
+    
